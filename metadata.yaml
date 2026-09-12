@@ -1,7 +1,7 @@
 name: astrbot_plugin_ipv6
 display_name: IPv6 查询
-desc: 群聊中发送「查询ipv6/查6/查询6」即可查看机器人所在服务器的公网 IPv6 地址（含临时地址与非临时地址），仅限配置的白名单群使用。
-version: v1.0.0
+desc: 群聊中发送「查询ipv6/查6/查询6」即可查看机器人所在服务器的公网 IPv6 地址（含临时地址与非临时地址），并可检测配置端口的本地服务运行状态，仅限配置的白名单群使用。
+version: v1.1.0
 author: awaZYLawa
 
 # astrbot_version: ">=4.17.0"                # （可选）支持的 AstrBot 版本范围
