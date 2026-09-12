@@ -10,6 +10,8 @@ _✨ AstrBot 插件：查询主机公网 IPv6 地址与本地服务端口状态 
   <img src="https://img.shields.io/badge/AstrBot-插件-blue" alt="AstrBot">
   <img src="https://img.shields.io/github/license/qwqZYLqwq/astrbot_plugin_ipv6" alt="license">
   <img src="https://img.shields.io/github/v/release/qwqZYLqwq/astrbot_plugin_ipv6" alt="release">
+  <img src="https://img.shields.io/github/commit-activity/m/qwqZYLqwq/astrbot_plugin_ipv6" alt="commit activity">
+  <img src="https://img.shields.io/github/last-commit/qwqZYLqwq/astrbot_plugin_ipv6" alt="last commit">
 </p>
 
 群内发送 `查询ipv6`（或 `查6`、`查询6`），机器人返回其所在主机的公网 IPv6 地址（含临时地址与非临时地址），
