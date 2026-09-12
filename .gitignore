@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+*.pyo
+*.zip
+target.txt
+_commit_msg.txt
